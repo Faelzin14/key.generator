@@ -13,6 +13,13 @@
             "days": 2,
             "hwid": "79e5f1fcf1958467654a288b2b3eb8470dcf07148c81716a39cfb7e1b4385975",
             "owner": "ferreira"
+        },
+        {
+            "key": "ROG2-XO3M-M6C4-5KU8",
+            "created": "2025-10-27T14:32:32.010878",
+            "days": 30,
+            "hwid": null,
+            "owner": "gz"
         }
     ]
 }
