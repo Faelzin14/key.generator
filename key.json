@@ -6,6 +6,13 @@
             "days": 1,
             "hwid": "304834bf89b13ee3d8f4de4a04895d42e7a22030ccf54b33f047e5fa5797fb82",
             "owner": "racionais"
+        },
+        {
+            "key": "759V-XX72-EEYD-MQ3C",
+            "created": "2025-10-27T13:58:27.491640",
+            "days": 30,
+            "hwid": null,
+            "owner": "faelzin_rlk"
         }
     ]
 }
