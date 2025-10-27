@@ -41,6 +41,13 @@
             "days": 3,
             "hwid": "79e5f1fcf1958467654a288b2b3eb8470dcf07148c81716a39cfb7e1b4385975",
             "owner": "bzin"
+        },
+        {
+            "key": "O3E5-19XD-U66Z-WACW",
+            "created": "2025-10-27T16:43:47.234929",
+            "days": 10,
+            "hwid": null,
+            "owner": "g7"
         }
     ]
 }
