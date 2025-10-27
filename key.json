@@ -20,6 +20,13 @@
             "days": 30,
             "hwid": "96823dd7590c204a14e5012de1c7d25738a87d91e5b5a50512c4d190399754a9",
             "owner": "gz"
+        },
+        {
+            "key": "6FXI-FH8R-EE91-4ZSY",
+            "created": "2025-10-27T14:45:16.913021",
+            "days": 30,
+            "hwid": null,
+            "owner": "123"
         }
     ]
 }
