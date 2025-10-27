@@ -27,6 +27,13 @@
             "days": 1,
             "hwid": null,
             "owner": "rafael"
+        },
+        {
+            "key": "OHC7-ACQ7-WPTI-84LC",
+            "created": "2025-10-27T14:17:53.903816",
+            "days": 1,
+            "hwid": null,
+            "owner": "ferreira"
         }
     ]
 }
