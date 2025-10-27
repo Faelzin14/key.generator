@@ -20,6 +20,13 @@
             "days": 1,
             "hwid": null,
             "owner": "ra"
+        },
+        {
+            "key": "S8TF-GMOI-XB2D-864Z",
+            "created": "2025-10-27T14:16:48.382785",
+            "days": 1,
+            "hwid": null,
+            "owner": "rafael"
         }
     ]
 }
