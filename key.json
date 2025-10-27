@@ -34,6 +34,13 @@
             "days": 10,
             "hwid": "79e5f1fcf1958467654a288b2b3eb8470dcf07148c81716a39cfb7e1b4385975",
             "owner": "cu"
+        },
+        {
+            "key": "XBWW-G7X7-J1QS-G9YS",
+            "created": "2025-10-27T14:58:48.549470",
+            "days": 3,
+            "hwid": null,
+            "owner": "bzin"
         }
     ]
 }
