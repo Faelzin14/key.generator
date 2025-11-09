@@ -62,6 +62,13 @@
             "days": 30,
             "hwid": null,
             "owner": "teste"
+        },
+        {
+            "key": "LOI5-EFMI-ZRFO-458A",
+            "created": "2025-11-09T14:44:04.889077",
+            "days": 1,
+            "hwid": null,
+            "owner": "Cliente"
         }
     ]
 }
