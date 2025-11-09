@@ -55,6 +55,13 @@
             "days": 999,
             "hwid": "79e5f1fcf1958467654a288b2b3eb8470dcf07148c81716a39cfb7e1b4385975",
             "owner": "fl"
+        },
+        {
+            "key": "HCJD-PUC0-MRRU-XQ98",
+            "created": "2025-11-09T14:12:29.741273",
+            "days": 30,
+            "hwid": null,
+            "owner": "teste"
         }
     ]
 }
