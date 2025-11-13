@@ -1,74 +1,16 @@
 {
-    "keys": [
-        {
-            "key": "racionais",
-            "created": "2025-10-27T14:21:49.956623",
-            "days": 999,
-            "hwid": "",
-            "owner": "racionais"
-        },
-        {
-            "key": "QD9E-IB05-B68K-ZNF9",
-            "created": "2025-10-27T14:29:13.441969",
-            "days": 2,
-            "hwid": "79e5f1fcf1958467654a288b2b3eb8470dcf07148c81716a39cfb7e1b4385975",
-            "owner": "ferreira"
-        },
-        {
-            "key": "ROG2-XO3M-M6C4-5KU8",
-            "created": "2025-10-27T14:32:32.010878",
-            "days": 30,
-            "hwid": "96823dd7590c204a14e5012de1c7d25738a87d91e5b5a50512c4d190399754a9",
-            "owner": "gz"
-        },
-        {
-            "key": "6FXI-FH8R-EE91-4ZSY",
-            "created": "2025-10-27T14:45:16.913021",
-            "days": 30,
-            "hwid": null,
-            "owner": "123"
-        },
-        {
-            "key": "6DTD-HFCM-7KGF-3M1O",
-            "created": "2025-10-27T14:45:45.200544",
-            "days": 10,
-            "hwid": "79e5f1fcf1958467654a288b2b3eb8470dcf07148c81716a39cfb7e1b4385975",
-            "owner": "cu"
-        },
-        {
-            "key": "XBWW-G7X7-J1QS-G9YS",
-            "created": "2025-10-27T14:58:48.549470",
-            "days": 3,
-            "hwid": "79e5f1fcf1958467654a288b2b3eb8470dcf07148c81716a39cfb7e1b4385975",
-            "owner": "bzin"
-        },
-        {
-            "key": "g7",
-            "created": "2025-10-27T16:43:47.234929",
-            "days": 999,
-            "hwid": "96823dd7590c204a14e5012de1c7d25738a87d91e5b5a50512c4d190399754a9",
-            "owner": "g7"
-        },
-        {
-            "key": "fael",
-            "created": "2025-10-30T18:25:28.402835",
-            "days": 999,
-            "hwid": "",
-            "owner": "fl"
-        },
-        {
-            "key": "HCJD-PUC0-MRRU-XQ98",
-            "created": "2025-11-09T14:12:29.741273",
-            "days": 30,
-            "hwid": null,
-            "owner": "teste"
-        },
-        {
-            "key": "LOI5-EFMI-ZRFO-458A",
-            "created": "2025-11-09T14:44:04.889077",
-            "days": 1,
-            "hwid": null,
-            "owner": "Cliente"
-        }
-    ]
+  "keys": [
+    {
+      "key": "ZONAXIT-XXXXX-XXXXX-vitalicio",
+      "created_at": "...",
+      "expires_at": null,
+      "permanent": true
+    },
+    {
+      "key": "ZONAXIT-XXXXX-XXXXX-XXXXX",
+      "created_at": "...",
+      "expires_at": "2025-12-01",
+      "permanent": false
+    }
+  ]
 }
