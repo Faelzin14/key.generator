@@ -1,16 +1,16 @@
 {
   "keys": [
     {
-      "key": "ZONAXIT-XXXXX-XXXXX-vitalicio",
-      "created_at": "...",
-      "expires_at": null,
-      "permanent": true
+      "key": "ZONAXIT-ABC-123-DEF",
+      "created_at": "2025-11-13T12:00:00Z",
+      "expires_at": "2025-12-13",
+      "permanent": false
     },
     {
-      "key": "ZONAXIT-XXXXX-XXXXX-XXXXX",
-      "created_at": "...",
-      "expires_at": "2025-12-01",
-      "permanent": false
+      "key": "ZONAXIT-XYZ-456-vitalicio",
+      "created_at": "2025-11-10T10:30:00Z",
+      "expires_at": null,
+      "permanent": true
     }
   ]
 }
